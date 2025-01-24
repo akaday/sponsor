@@ -6,7 +6,7 @@ The GitHub Sponsors project allows you to support `akaday`'s open source work. B
 
 ### How to Sponsor
 
-To sponsor `akaday`, visit the [GitHub Sponsors page](https://github.com/sponsors/akaday) and choose a sponsorship tier or enter a custom amount. You can also support via [PayPal](https://www.paypal.com/paypalme/akaday).
+To sponsor `akaday`, visit the [GitHub Sponsors page](https://github.com/sponsors/akaday) and choose a sponsorship tier or enter a custom amount. You can also support via [PayPal](https://www.paypal.com/paypalme/barki0).
 
 ### Benefits of Sponsoring
 
